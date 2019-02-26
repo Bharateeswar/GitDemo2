@@ -4,4 +4,4 @@ It mainly used for searchinng purpose
 it has to be used with respective to java
 here is another usage of solr
 adding 6th line
-adding 7th line
+
